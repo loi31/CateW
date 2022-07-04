@@ -1,2 +1,1 @@
 game.Players.LocalPlayer:Kick("Banned !\nHacking not allowed in this game\nunban in 785day")
-while true do end
